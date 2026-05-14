@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Менин жашоом — Менин дүйнөм</title>
+</head>
+
+<body bgcolor="lightblue">
+
+    <center>
+        <h1>🌍 Менин жашоом — Менин дүйнөм 🌍</h1>
+        <p>Кош келиңиздер менин жеке сайтыма!</p>
+    </center>
+
+    <hr>
+
+    <h2>📖 Мен жөнүндө</h2>
+
+    <center>
+        <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+        width="400">
+    </center>
+
+    <p>
+        Мен программалоону үйрөнүп жаткан студентмин.
+        HTML, CSS жана сайт жасоо мага абдан кызык.
+    </p>
+
+    <hr>
+
+    <h2>💻 Менин кызыгууларым</h2>
+
+    <center>
+        <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+        width="400">
+    </center>
+
+    <ul>
+        <li>Программалоо</li>
+        <li>Компьютер технологиялары</li>
+        <li>Музыка</li>
+        <li>Достор менен убакыт өткөрүү</li>
+    </ul>
+
+    <hr>
+
+    <h2>🎯 Менин максатым</h2>
+
+    <center>
+        <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+        width="400">
+    </center>
+
+    <p>
+        Келечекте күчтүү программист болуп,
+        өзүмдүн чоң сайттарымды жана колдонмолорумду түзгүм келет.
+    </p>
+
+    <hr>
+
+    <center>
+        <button>Менин дүйнөм</button>
+    </center>
+
+    <br>
+
+    <center>
+        <p>© 2026 Менин жеке сайтым</p>
+    </center>
+
+</body>
+</html>
